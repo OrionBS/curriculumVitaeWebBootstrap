@@ -1,0 +1,19 @@
+mark {
+    background-color: #86eca5;
+    color: #203966;
+}
+.bg-purple {
+    background-color: #6b52e6;
+}
+.bg-lightblue {
+    background-color: #4376b9;
+}
+.bg-darkblue {
+    background-color: #203966;
+}
+.text-darkblue {
+    color: #203966;
+}
+.logo {
+    font-size: 225px;
+}
